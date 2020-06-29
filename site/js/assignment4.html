@@ -11,6 +11,17 @@
   <script>
 
     var names = [];
+    (function (window){
+	var byeSpeaker={};
+	var speakword = "Hello";
+	byeSpeaker.speak=function (name) {
+
+  console.log(speakword + " " + name);
+
+}
+window.byeSpeaker=byeSpeaker;
+})(window);
+
     
   </script>
 
@@ -27,3 +38,4 @@
 </body>
 
 </html>
+

@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "week4.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/loganandhini/coursera/site/week31.html",
+		"/C/Users/loganandhini/coursera/site/menu-categories.html",
+		"/C/Users/loganandhini/coursera/site/single-category.html",
+		"/C/Users/loganandhini/coursera/site/eg",
+		"/C/Users/loganandhini/coursera/site/week3assig.html",
+		"/C/Users/loganandhini/coursera/site/css/styles2.css",
+		"/C/Users/loganandhini/coursera/site/eg.html",
+		"/C/Users/loganandhini/coursera/site/css/styles1.css",
+		"/C/Users/loganandhini/coursera/site/images/images[5].jpg",
+		"/C/Users/loganandhini/coursera/site/images/restaurant-logo_large.png",
+		"/C/Users/loganandhini/coursera/site/images/restaurant-logo_medium[1].png",
+		"/C/Users/loganandhini/coursera/site/js/jquery-2.1.4.js",
+		"/C/Users/loganandhini/coursera/site/js/jquery-2.1.4.min.js",
+		"/C/Users/loganandhini/coursera/site/js/jquery-1.11.3.min.js",
+		"/C/Users/loganandhini/coursera/site/css/styles.css",
+		"/C/Users/loganandhini/coursera/site/AFTER.html",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap.css",
+		"/C/Users/loganandhini/coursera/site/styles.css",
+		"/C/Users/loganandhini/coursera/site/lec23.html",
+		"/C/Users/loganandhini/coursera/site/lec26",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap.min.css",
+		"/C/Users/loganandhini/coursera/index.html",
+		"/C/Users/loganandhini/coursera/site/css/style.css",
+		"/C/Users/loganandhini/coursera/site/lec26.html",
+		"/C/Users/loganandhini/coursera-assig/assig/week2assig.html",
+		"/C/Users/loganandhini/coursera/site/week2assig.html",
+		"/C/Users/loganandhini/coursera/site/lecc20a.html",
+		"/C/Users/loganandhini/coursera/site/worklec26.html",
+		"/C/Users/loganandhini/coursera/site/lec21.html",
+		"/C/Users/loganandhini/coursera/site/LEC1.HTML",
+		"/C/Users/loganandhini/coursera/site/style.css",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap.min.css.map",
+		"/C/Users/loganandhini/coursera/site/fonts/glyphicons-halflings-regular.svg",
+		"/C/Users/loganandhini/coursera/site/fonts/glyphicons-halflings-regular.ttf",
+		"/C/Users/loganandhini/coursera/site/js/script.js",
+		"/C/Users/loganandhini/coursera/site/js/npm.js",
+		"/C/Users/loganandhini/coursera/site/js/bootstrap.min.js",
+		"/C/Users/loganandhini/coursera/site/js/bootstrap.js",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/css/bootstrap1.min.css",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap-theme.css",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap-theme.css.map",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap-theme.min.css.map",
+		"/C/Users/loganandhini/coursera/site/js/glyphicons-halflings-regular.svg",
+		"/C/Users/loganandhini/coursera/site/fonts/glyphicons-halflings-regular.eot",
+		"/C/Users/loganandhini/coursera/site/css/bootstrap-theme.min.css",
+		"/C/Users/loganandhini/coursera/site/background image.html",
+		"/C/Users/loganandhini/coursera/site/lec08.html",
+		"/C/Users/loganandhini/coursera/site/lec 07.html",
+		"/C/Users/loganandhini/coursera/site/image.png.jpg",
+		"/C/Users/loganandhini/coursera/site/amma1.jpg",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist",
+		"/C/Users/loganandhini/coursera/site/jquery.3.min.js",
+		"/C/Users/loganandhini/coursera/site/style1.css",
+		"/C/Users/loganandhini/coursera/site/bootstrap.min.css",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/css/bootstrap.min.css",
+		"/C/Users/loganandhini/coursera/site/LEC22.HTML",
+		"/C/Users/loganandhini/coursera/site/lec20.html",
+		"/C/Users/loganandhini/coursera/site/lec19.html",
+		"/C/Users/loganandhini/coursera/site/lec17.html",
+		"/C/Users/loganandhini/coursera/site/week2.html",
+		"/C/Users/loganandhini/coursera/site/index1.html",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/js/lec26.html",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/js/jquerynew-1.11.3.min.js",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/js/jquery-1.11.3.min.js",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist/css/bootstrap.min.css.map",
+		"/C/Users/loganandhini/coursera/site/jquery-1.11.3.min.js",
+		"/C/Users/loganandhini/coursera/site/script.js",
+		"/C/Users/loganandhini/coursera/site/bootstrap-3.4.1-dist.zip",
+		"/C/Users/loganandhini/coursera/site/js/style.css",
+		"/C/Users/loganandhini/coursera/site/js/js.1",
+		"/C/Users/loganandhini/coursera/site/style1.html",
+		"/C/Users/loganandhini/coursera/site/amma.jpg",
+		"/C/Users/loganandhini/coursera/site/w22k21.HTML",
+		"/C/Users/loganandhini/coursera/site/lec16.html",
+		"/C/Users/loganandhini/coursera/site/lec15.html",
+		"/C/Users/loganandhini/coursera/site/image.png",
+		"/C/Users/loganandhini/coursera/site/assig.html",
+		"/C/Users/loganandhini/coursera/din/index.html",
+		"/C/Users/loganandhini/coursera/din/basic struc.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3",
+			"col",
+			"3",
+			".col-xs-12",
+			"  ",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "week4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
